@@ -1,0 +1,122 @@
+subject_id,0
+icustay_id,0
+gender,3
+admittime,0
+dischtime,0
+los_hospital,3
+age,3
+ethnicity,2
+admission_type,2
+hospital_expire_flag,3
+hospstay_seq,3
+first_hosp_stay,0
+intime,0
+outtime,0
+los_icu,3
+icustay_seq,3
+first_icu_stay,0
+Sys_BP,1
+PEEP,1
+BIPAP,0
+BSA,1
+CVP,1
+Cardiac Index,1
+Code Status,0
+Cuff_Pressure,1
+ETT,1
+GCS_Eyes,1
+Flow_By,0
+GCS Total,0
+Heart_Rate,1
+Heart Rhythm,2
+Resp_Pressure,1
+Insp_Pressure,0
+TCPCV,0
+Minute_Volume,1
+GCS_Motor,1
+Mean_BP,1
+O2_From_Ventilator,2
+O2_Flow,1
+PAP [Systolic],1
+PCV,0
+PCWP,1
+Plateau_Pressure,1
+Pressure_Support,1
+Resp_Rate,0
+Resp_Rate,1
+SVR,1
+Tidal_Volume,1
+SpO2,1
+Speech_Intubated,0
+Spon RR (Mech.),0
+Spon. Vt (L) (Mech.),0
+Temperature C (calc),0
+Temperature F (calc),0
+Ventilator Mode,2
+GCS_Verbal,1
+Waveform-Vent,1
+Admit Wt,1
+ALT,1
+AST,1
+Alkaline_Phosphate,1
+Arterial CO2(Calc),1
+Arterial PaCO2,1
+Arterial PaO2,1
+Arterial_pH,1
+Bicarbonate,1
+D-Dimer (0-500),1
+Fibrinogen (150-400),1
+Glucose,1
+Hematocrit,1
+Hemoglobin,1
+LDH,1
+RBC,1
+SaO2,1
+Troponin,1
+Vancomycin/Random,1
+Admit Ht,0
+Readmission,1
+Marital Status,2
+Religion,2
+Pain Present,2
+Service Type,2
+Art.pH,0
+BUN,1
+Readmit <48 hrs,0
+Albumin,1
+Calcium,1
+Chloride,1
+Creatinine,1
+INR,1
+Lactic_Acid,1
+Magnesium,1
+Phosphorous,1
+Potassium,1
+Total_Bili,1
+WBC,1
+APRV_Pressure,1
+Dias_BP,1
+PAP [Diastolic],1
+Central Venous Pressure,1
+Arterial O2 pressure,1
+Arterial O2 Saturation,1
+Arterial CO2 Pressure,1
+Code Status,0
+Temp,1
+O2 Saturation Pulseoxymetry Alarm - High,0
+O2 Saturation Pulseoxymetry Alarm - Low,0
+Fi_O2,1
+Spont Vt,0
+Spont RR,0
+PSV_level,1
+Dialysis patient,2
+CK,1
+TCO2 (calc) Arterial,1
+Admission Weight (Kg),0
+Sodium,1
+Chloride (whole blood),0
+Height,0
+Anion gap,1
+CPK/MB,1
+Platelets,1
+Fibrinogen,1
