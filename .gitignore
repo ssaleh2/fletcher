@@ -3,6 +3,7 @@
 local*
 local/
 *local*
+Pickles/
 
 #Ipython Notebook
 .ipynb_checkpoints
